@@ -30,8 +30,9 @@ int main(void)
        usernote[0] = 'a';
        for (i=0; i<200; i++) {
           notenum = rand() %16;
-          //notenum = 14;
-        /*
+          //so we can test/tune the individual notes.
+           /*notenum = 14; 
+        
          1  DB2
          2  EB2
          3  GB2
