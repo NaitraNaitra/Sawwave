@@ -6,4 +6,6 @@ This simple saw wave generator uses the portaudio cross platform library It will
 
 In future I would like to point to each function and get the function to read the pitches of a struct containing the tuning offset, however i cannot write to the function without breaking the code (would love some feedback).
 
+video of it being compiled and played here https://youtu.be/E6KgmggWA9E
+
 Nav
