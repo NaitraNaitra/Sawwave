@@ -2,7 +2,7 @@
 //  functions.h
 //  sawwave
 //
-//  Created by Maxi on 16/09/2016.
+//  Created by Maxi on 16/09/2016. thats my computers name!
 //  Copyright © 2016 Maxi. All rights reserved.
 //
 
