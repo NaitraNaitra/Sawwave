@@ -118,7 +118,7 @@ int main(void)
                         break;
                 }
                 break;
-                /////////////////////////////            default:
+                /////////////////////////////            
                 break;
                 
                            case 2:
@@ -189,7 +189,7 @@ int main(void)
                         break;
                 }
                 break;
-                /////////////////////////////            default:
+                /////////////////////////////            
                 break;
                 
                              
@@ -261,7 +261,7 @@ int main(void)
                         break;
                 }
                 break;
-                /////////////////////////////            default:
+                /////////////////////////////           
                 break;
                 
                 
@@ -333,7 +333,7 @@ int main(void)
                         break;
                 }
                 break;
-                /////////////////////////////            default:
+                /////////////////////////////            
                 break;
                            case 5:
                 printf("Guess the note.\n # or b for accidentals X to exit");
@@ -403,7 +403,7 @@ int main(void)
                         break;
                 }
                 break;
-                /////////////////////////////            default:
+                /////////////////////////////            
                 break;
                            case 6:
                 printf("Guess the note.\n # or b for accidentals X to exit");
@@ -473,7 +473,7 @@ int main(void)
                         break;
                 }
                 break;
-                /////////////////////////////            default:
+                /////////////////////////////            
                 break;
                                
                            case 7:
@@ -544,7 +544,7 @@ int main(void)
                         break;
                 }
                 break;
-                /////////////////////////////            default:
+                /////////////////////////////            
                 break;
                 
                            case 8:
@@ -615,7 +615,7 @@ int main(void)
                         break;
                 }
                 break;
-                /////////////////////////////            default:
+                /////////////////////////////            
                 break;
                            case 9:
                 printf("Guess the note.\n # or b for accidentals X to exit");
@@ -685,7 +685,7 @@ int main(void)
                         break;
                 }
                 break;
-                /////////////////////////////            default:
+                /////////////////////////////            
                 break;
                            case 10:
                 printf("Guess the note.\n # or b for accidentals X to exit");
@@ -755,7 +755,7 @@ int main(void)
                         break;
                 }
                 break;
-                /////////////////////////////            default:
+                /////////////////////////////           
                 break;
                              
                            case 11:
@@ -826,7 +826,7 @@ int main(void)
                         break;
                 }
                 break;
-                /////////////////////////////            default:
+                /////////////////////////////            
                 break;
                 
                            case 12:
@@ -897,7 +897,7 @@ int main(void)
                         break;
                 }
                 break;
-                /////////////////////////////            default:
+                /////////////////////////////            
                 break;
                 
                              
@@ -969,7 +969,7 @@ int main(void)
                         break;
                 }
                 break;
-                /////////////////////////////            default:
+                /////////////////////////////            
                 break;
                 
                 
@@ -1041,7 +1041,7 @@ int main(void)
                         break;
                 }
                 break;
-                /////////////////////////////            default:
+                /////////////////////////////           
                 break;
                            case 15:
                 printf("Guess the note.\n # or b for accidentals X to exit");
@@ -1111,7 +1111,7 @@ int main(void)
                         break;
                 }
                 break;
-                /////////////////////////////            default:
+                /////////////////////////////            
                 break;
                       
                            
