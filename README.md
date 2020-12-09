@@ -8,4 +8,3 @@ In future I would like to point to each function and get the function to read th
 
 video of it being compiled and played here https://youtu.be/E6KgmggWA9E
 
-Nav
