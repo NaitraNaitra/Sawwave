@@ -10,3 +10,5 @@ gcc main.c /usr/local/lib/libportaudio.a -framework CoreAudio -framework CoreSer
 
 video of it being compiled and played here https://youtu.be/E6KgmggWA9E
 
+Tested on all macos' from the m1 mac all the way down to 10.4 ppc's ;)
+
