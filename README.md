@@ -7,7 +7,7 @@ On a mac terminal  `cd` into the folder, run `./configure && make` and then  `ma
 To build for macos you can run the command 
 `gcc main.c /usr/local/lib/libportaudio.a -framework CoreAudio -framework CoreServices -framework AudioToolbox -framework AudioUnit`  (recommended)
 Or 
-`gcc main.c -L/usr/local/lib/  -lportaudio` ( on most v19 portaudio)
+`gcc main.c -L /usr/local/lib/  -lportaudio` ( on most v19 portaudio)
 
 Video of it being compiled and played here https://youtu.be/E6KgmggWA9E
 
